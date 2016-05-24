@@ -35,7 +35,7 @@ It is not possible to clone (save) subfolders to your computer. Therefore you ne
 #### Whatever was uploaded to a repository will stay there forever  
 If you upload 500MB of material when you start a project and delete it when the project is done, it will stay there inside the history. GitHub keeps those files in case you might want to return to a previous state of your project later. Keep this in mind and always only upload, what is important for the project or for others. Also try to keep your sketch & photoshop files as small as possible. Don't import hi-res 70MB images, when you just need a 960x320px visual.  
 
-**NOTE:** We will
+**NOTE:** We are currently investigatiing if we can use 3rd party plugins/tools for dealing with very large files. We also investigate, if it is possible to clear the history of repositories that became too large.
 
 #### Naming for our repositories
 We can assume that many teams will have similar repos. For example nearly every team will have a repository called "iOS". To avoid confusion we decided that it is best to use the organization name as a prefix:  
