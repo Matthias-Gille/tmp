@@ -24,7 +24,7 @@ etc..
 
 ## Repositories (Projects)
 
-When you plan your repositories/projects inside GitHub think about three things: 
+When you plan your repositories/projects inside GitHub think about thesee things: 
 
 ### Repositories can either be visible or not visible for everyone else  
 It is not possible to hide a subfolder from someone. So best would be to create specific private repos for administration stuff. You can check the status everytime under: Settings > xxx
