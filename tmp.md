@@ -11,7 +11,7 @@ Each UX team should have an own team space inside our XING enterprise account. I
 
 It would be best to give someone specific the owner status of the organization and everyone else in the team member status. You can do this under: organizations > xxx
 
-### Naming for our organizations
+#### Naming for our organizations
 
 We decided that it is best, to name all organisations with the prefix "UX-" so they can be found easier inside GitHub.
 
