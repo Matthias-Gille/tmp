@@ -22,13 +22,13 @@ etc..
 
 When you plan your repositories/projects inside GitHub think about three things: 
 
-### Repositories can either be visible or non visible for everyone else  
+### Repositories can either be visible or not visible for everyone else  
 It is not possible to hide a subfolder from someone. So best would be to create specific private repos for administration stuff. You can check the status everytime under: Settings > xxx
 
 ### Respositories can only be cloned completely  
 It is not possible to clone (save) subfolders to your computer. Therefore you need a clever logic since your harddrive space is limited. Best would be to create repos for every big project and combine the rest in a repo for daily jobs. You can also set up archive repos. But again these archive repos should be set up for each year individually so they don't get too big.  
 
-### Whatever was uploaded to a repository will stay forever inside the history  
+### Whatever was uploaded to a repository will stay there forever  
 If you upload 500MB of material when you start a project and delete it when the project is done, it will stay there inside the history. GitHub keeps those files in case you might want to return to a previous state of your project later. Keep this in mind and always only upload, what is important for the project or for others. Also try to keep your sketch & photoshop files as small as possible. Don't import hi-res 70MB images, when you just need a 960x320px visual.  
 
 ### Naming of our repositories
