@@ -1,5 +1,5 @@
-#Headline 1  
-##HEadline 2  
+
+## UX goes GitHub 
 
 After the first weeks with git we made a small recap because we encountered some problems and had some open questions. You can find the learnings and descisions we made in this guide. 
 
