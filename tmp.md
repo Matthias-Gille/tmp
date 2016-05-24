@@ -3,7 +3,7 @@
 
 After the first weeks with git we made a small recap because we encountered some problems and had some open questions. You can find the learnings and descisions we made in this guide. 
 
-If you need more information in general regarding the usage of git you might want to check the great video course called "version control for designers" that we found. The course was done by Adria Jimenez, a XING engineer/designer from Barcelona. You can find a link at the bottom of the page.
+If you need more information in general regarding the usage of git you might want to check the great video course called "Version control for designers" that we found. The course was done by Adria Jimenez, a XING engineer/designer from Barcelona. You can find a link at the bottom of the page.
 
 ## Organizations (Teams)
 
