@@ -45,6 +45,43 @@ UX-Growth-iOS
 UX-White-iOS  
 etc..  
 
+## Files & Folders
+
+Each subfolder and our files should be named xxxx so that they are easy to find for everyone.
+
+### Naming for files
+Each file should contain the accordign JIRA-ticket identification as a prefix:  
+
+UX-2502_Projectname.sketch  
+PAT-502_Projectname.sketch  
+...  
+
+### Naming for folders
+Each subfolder of a repository should also contain the accordign JIRA-ticket identification as a prefix:  
+
+UX-2502_Projectname  
+PAT-502_Projectname  
+... 
+
+For the subfolders of such a projectfolder we suggest, that you define a clear logic that is consitant throughout all of your projects and name the folders accordingly:  
+
+00_material
+01_layout
+02_output
+...
+
+## Video course "Version control for designers"
+As mentioned above we found this great video course that was done by Adria Jimenez. A XING engineer/designer from Barcelona. He takes you to all important step and explains nicely how to use git with Sourcetree. We already paid for the course and you can find it here:
+
+URL: 
+Login:
+Password:
+
+
+
+
+
+
 
 
 
