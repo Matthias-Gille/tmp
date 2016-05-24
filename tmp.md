@@ -3,7 +3,7 @@
 
 After the first weeks with git we made a small recap because we encountered some problems and had some open questions. You can find the learnings and descisions we made in this guide. 
 
-If you need more information in general regarding the usage of git you might want to check the great video course called "Version control for designers" that we found. The course was done by Adria Jimenez, a XING engineer/designer from Barcelona. You can find a link at the bottom of the page.
+If you need more information in general regarding the usage of git you might want to check the great video course that we found called "Version control for designers". The course was done by Adria Jimenez, a XING engineer/designer from Barcelona. You can find a link at the bottom of the page.
 
 ## Organizations (Teams)
 
@@ -35,7 +35,7 @@ It is not possible to clone (save) subfolders to your computer. Therefore you ne
 ### Whatever was uploaded to a repository will stay there forever  
 If you upload 500MB of material when you start a project and delete it when the project is done, it will stay there inside the history. GitHub keeps those files in case you might want to return to a previous state of your project later. Keep this in mind and always only upload, what is important for the project or for others. Also try to keep your sketch & photoshop files as small as possible. Don't import hi-res 70MB images, when you just need a 960x320px visual.  
 
-### Naming of our repositories
+### Naming for our repositories
 We can assume that many teams will have similar repos. For example nearly every team will have a repository called "iOS". To avoid confusion we decided that it is best to use the organization name as a prefix:  
 
 UX-Mobile-iOS  
