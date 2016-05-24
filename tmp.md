@@ -1,7 +1,9 @@
 #Headline 1  
 ##HEadline 2  
 
-After the first weeks with git we made a small recap and decided a few things that you find in this guide. If you need more information in general regarding the usage of git we have found a great video course called "version control for designers". The course was done by Adria Jimenez a XING engineer/designer from Barcelona. You can find it at the bottom of the page.
+After the first weeks with git we made a small recap and decided a few things that you find in this guide. 
+
+If you need more information in general regarding the usage of git we have found a great video course called "version control for designers". The course was done by Adria Jimenez a XING engineer/designer from Barcelona. You can find it at the bottom of the page.
 
 ## Organizations (Teams)
 
