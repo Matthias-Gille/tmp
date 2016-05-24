@@ -75,9 +75,9 @@ PAT-502_Projectname.sketch
 ## Video course "Version control for designers"
 As mentioned above we found this great video course that was done by Adria Jimenez. A XING engineer/designer from Barcelona. He takes you to all important step and explains nicely how to use git with Sourcetree. We already paid for the course and you can find it here:
 
-URL: 
-Login:
-Password:
+URL:  
+Login:  
+Password:  
 
 
 
